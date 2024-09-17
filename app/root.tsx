@@ -17,7 +17,6 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <h1>Hello333das3</h1>
         <Outlet />
 
         <Scripts />
